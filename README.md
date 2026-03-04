@@ -2,7 +2,8 @@
 
 An interactive **Tic-Tac-Toe** game featuring AI opponents using **Minimax**, **Alpha-Beta Pruning**, and **Monte Carlo Tree Search (MCTS)** algorithms. Built with **Python** and **Pygame**, this project demonstrates AI decision-making in a classic game while tracking time ⏱️ and memory 💾 usage for performance evaluation.
 
-![Gameplay Screenshot](images/menu.png)(images/gameplay.png)
+![Menu Screenshot](images/menu.png)
+![Gameplay Screenshot](images/gameplay.png)
 
 ---
 
