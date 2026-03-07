@@ -45,3 +45,9 @@ python main.py
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share.
+
+---
+
+## 🙋 Author
+
+Made by [adin-alxndr](https://github.com/adin-alxndr/)
