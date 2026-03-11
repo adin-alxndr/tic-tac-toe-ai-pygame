@@ -1,5 +1,10 @@
 # 🎮 Tic-Tac-Toe AI with Pygame
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pygame](https://img.shields.io/badge/Pygame-Game%20Development-green)
+![Artificial Intelligence](https://img.shields.io/badge/AI-Game%20AI-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An interactive **Tic-Tac-Toe** game featuring AI opponents using **Minimax**, **Alpha-Beta Pruning**, and **Monte Carlo Tree Search (MCTS)** algorithms. Built with **Python** and **Pygame**, this project demonstrates AI decision-making in a classic game while tracking time ⏱️ and memory 💾 usage for performance evaluation.
 
 ![Menu Screenshot](images/menu.png)
@@ -23,7 +28,7 @@ An interactive **Tic-Tac-Toe** game featuring AI opponents using **Minimax**, **
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-ai-pygame.git
+git clone https://github.com/adin-alxndr/tic-tac-toe-ai-pygame.git
 cd tic-tac-toe-ai-pygame
 ```
 2. Install dependencies:
